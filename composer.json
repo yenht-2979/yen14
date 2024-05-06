@@ -7,7 +7,7 @@
     "require": {
         "php": "^7.2.5|^8.0",
         "guzzlehttp/guzzle": "^7.0.1",
-        "laravel/framework": "^8.75",
+        "laravel/framework_yen123": "^8.75",
         "laravel/passport": "^10.4",
         "laravel/sanctum": "^2.11",
         "laravel/tinker": "^2.5",
